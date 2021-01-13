@@ -1,0 +1,6 @@
+<scene>
+    <element position="1 -2 3">
+        <primitive type="cube"></primitive>
+    </element>
+    <primitive type="cube" scale="1 2 3" rotation="0 0.7 0 0.7"></primitive>
+</scene>
