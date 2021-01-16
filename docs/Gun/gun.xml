@@ -1,5 +1,5 @@
 <scene>
-    <model src="./gun.glb" position="1 0 0.1">
+    <model src="./gun.glb" position="1 0 0.1" attribute="equipable">
         <script src="../wasm/fire_object.wasm"/>
     </model>
 </scene>
