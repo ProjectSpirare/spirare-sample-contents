@@ -1,0 +1,5 @@
+<scene>
+    <primitive type="cube" position="1 0 0">
+        <script src="./wasm/scale_on_select.wasm"/>
+    </primitive>
+</scene>
